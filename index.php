@@ -13,10 +13,6 @@ and open the template in the editor.
         <?php
             echo "<h1>Noam</h1>";
             echo "<h1>Noam</h1>";
-            echo "<h1>Noam</h1>";
-            echo "<h1>Noam</h1>";
-            echo "<h1>Noam</h1>";
-            echo "<h1>Noam</h1>";
         ?>
         
         
