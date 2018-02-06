@@ -10,6 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        <h1>header</h1>
         <?php
             echo "<h1>Noam</h1>";
             echo "<h1>Noam</h1>";
