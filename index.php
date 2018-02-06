@@ -18,7 +18,7 @@ and open the template in the editor.
             First name:<br>
             <input type="text" name="user" value="Mickey">
             <br>
-            Last name:<br>
+            Last name: <br>
             <input type="text" name="pwd" value="Mouse">
             <br><br>
             <input type="submit" value="Submit">
