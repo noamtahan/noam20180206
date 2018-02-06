@@ -12,6 +12,10 @@ and open the template in the editor.
     <body>
         <?php
             echo "<h1>About Me</h1>";
+            echo "<h1>About Me</h1>";
+            echo "<h1>About Me</h1>";
+            echo "<h1>About Me</h1>";
+            echo "<h1>About Me</h1>";
             ?>
         
         
