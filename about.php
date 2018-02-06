@@ -21,7 +21,12 @@ and open the template in the editor.
         
         
         
+        <?php
         
+        echo "Yaaaa...";
+        
+        ?>
+
         
         <?php
         
