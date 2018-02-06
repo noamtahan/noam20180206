@@ -12,7 +12,14 @@ and open the template in the editor.
     <body>
         <?php
             echo "<h1>Noam</h1>";
+            echo "<h1>Noam</h1>";
+            echo "<h1>Noam</h1>";
+            echo "<h1>Noam</h1>";
+            echo "<h1>Noam</h1>";
+            echo "<h1>Noam</h1>";
         ?>
+        
+        
         
         <form action="form.php">
             First name:<br>
