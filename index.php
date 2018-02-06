@@ -12,7 +12,10 @@ and open the template in the editor.
     <body>
         <h1>header</h1>
         <?php
-            echo "<h1>Noam</h1>";
+            echo "<p>Noam Noam Noam</p>";
+            echo "<p>Noam Noam Noam</p>";
+            echo "<p>Noam Noam Noam</p>";
+            echo "<p>Noam Noam Noam</p>";
             echo "<p>Noam Noam Noam</p>";
         ?>
         
