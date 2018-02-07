@@ -15,9 +15,6 @@ and open the template in the editor.
             echo "<p>Noam Noam Noam</p>";
 
         ?>
-        
-        
-        
         <form action="form.php">
             First name:<br>
             <input type="text" name="user" value="Mickey">
