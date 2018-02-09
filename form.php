@@ -1,3 +1,3 @@
 <?php
 
-echo $_GET['user'] . "<br>";
+echo $_GET['user'] .  " ---- " . "<br>";
